@@ -1,0 +1,17 @@
+Negative sentiment summary:
+The negative sentiment towards digital education mainly revolves around technical issues, outdated interfaces, and a lack of teacher engagement in using electronic diaries. There are also concerns about the quality of digital education products and the lack of a unified system for the whole country.
+
+Top 10 mentioned aspects regarding negative sentiment:
+
+1. Technical issues (e.g., server errors, lagging) - [68], [156], [218], [266], [348], [588]
+2. Outdated interfaces - [503], [548], [202], [454]
+3. Lack of teacher engagement in using electronic diaries - [562], [890], [305], [416], [73], [646]
+4. Quality of digital education products - [196], [920], [430], [296], [922]
+5. Lack of a unified system for the whole country - [149], [625], [416]
+6. Inconvenient functionality - [764], [1016], [202], [922]
+7. Difficulty in tracking student progress - [562], [625], [416], [922]
+8. Older teachers struggling with technology - [890], [625], [266]
+9. Inefficient or outdated approach to education - [266], [806], [588]
+10. Lack of integration with other platforms (e.g., Google Classroom) - [740], [451], [149]
+
+Indexes of messages mentioning these aspects: [68], [156], [218], [266], [348], [588], [503], [548], [202], [454], [562], [890], [305], [416], [73], [646], [196], [920], [430], [296], [922], [149], [625], [764], [1016], [625], [416], [922], [890], [625], [266], [740], [451], [149], [266], [806], [588].
