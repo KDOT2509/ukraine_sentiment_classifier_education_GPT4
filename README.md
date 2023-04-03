@@ -1,2 +1,0 @@
-# ukraine_sentiment_classifier_education_GPT4
-
